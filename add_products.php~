@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<script src="js/jquery-1.8.2.min.js"></script>
+<script src="js/shop.js"></script>
+<script src="js/jquery-ui.js"></script>
+<link rel="stylesheet" href="css/shop.css" type="text/css"/>
+		
+</head>
+<body>	
+	<fieldset id="myTitle">
+	<h1>Js Computer Shop Sytem</h1>
+	
+</fieldset>
+		
+
+	<fieldset id="myMenus">
+			<a href="index.php">HOME</a></br>
+			<a href="products.php">PRODUCTS</a></br>
+			<a href="order.php">ORDER</a></br>
+			<a href="employee.php">Employee</a>
+						
+	</fieldset>
+
+	
+		
+	<fieldset id="myField">
+		<h2>INVENTORY</h2>
+		<table>
+		<tr>	
+		<td><label for="ProductName">Product Name:</label></td>
+		<td><input type="text" name="prod_name"/></br></td>
+		</tr>	
+		<td><label for="ProductPrice">Product Price:</label></td>
+		<td><input type="text" name="prod_price"/></td></br>
+		</tr>
+		<td><label for="ProductName">Quantity:</label></td>
+		<td><input type="text" name="qunatity"/></td>
+		</tr>
+		</table>
+		<table id="inventory" border="10">
+		<tr>	
+			<td>ID</td>
+			<td>Product Name</td>
+			<td>Product Price</td>
+			<td>Quantity</td>
+  </table>
+</fieldset>
+	
+			<div id="advertisment">
+
+	
+		<img id="pic1" src="Images/1.jpg"/>
+		<img  id="pic2"src="Images/many.jpg"/>
+</div>
+	
+</body>
+</html>

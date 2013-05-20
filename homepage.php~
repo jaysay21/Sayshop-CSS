@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+
+
+<html>
+<head>
+		<script type="text/javascript" src="js/jquery-1.8.2.min.js"></script>
+		<script type="text/javascript" src="js/jquery-ui-1.9.0.custom.min.js"></script>
+		<script type="text/javascript" src="js/shop.js"></script>
+		<link rel="stylesheet" href="css/jquery-ui.css" />
+		<link rel="stylesheet" href="css/shop.css" type="text/css"/>
+</head>
+<body>
+	<fieldset class = "class">
+		<p id = "myTitle">JS Computer Shop</p>
+	</fieldset>
+</br>
+<div class = "menus">
+	<a href="homepage.php" id = "myMenuID"><button id = "myMenus">Home<img id = "myArrow" src = "images/arrow.png"></button></a></br>
+	<a  href="#about" id = "myMenuID"><button id = "myMenus">About Shop<img id = "myArrow1" src = "images/arrow.png"></button></a></br>
+	<a  href="products.php" id = "myMenuID"><button id = "myMenus">Products<img id = "myArrow3" src = "images/arrow.png"></button></a></br>
+	<a  href="#order" id = "myMenuID"><button id = "myMenus">Online Order<img id = "myArrow4" src = "images/arrow.png"></button></a></br>
+	<a  href="#contact" id = "myMenuID"><button id = "myMenus">Contact Us<img id = "myArrow2" src = "images/arrow.png"></button></a></br>
+	<button id = "mySign">Sign Up</button></br>
+	<button id = "myLog">Login</button></br>
+</div>
+<fieldset class = "myField">
+
+</fieldset>
+<div class = "gadgets">
+	<img id = "myIMG" src = "images/many.jpg"/>
+	<img id = "myimg" src = "images/1.jpg"/>
+</div>
+<!--
+	<div id="about">
+		<div class = "">
+			<h1>JS Computer Shop</h1>
+		</div>
+	</div>
+	<div id="contact">Contact Us </div>
+	<div id="order">Online Order</div>
+-->
+<div class = "sign" title = "Register">
+	<form method = "POST">
+		Firstname: <input type = "text" id = "firstname" name = "firstname"/></br>
+		Lastname: <input type = "text" id = "lastname" name = "lastname"/></br>
+		Address: <input type = "text" id = "address" name = "address"/></br>
+		Contact Number: <input type = "text" id = "contact" name = "contact"/></br>
+		Username: <input type = "text" id = "username" name = "username"/></br>
+		Password: <input type = "password" id = "password" name = "password"/></br>
+		Confirm password: <input type = "password" id = "password2" name = "password2"/></br>
+						<input type = "hidden" name = "id"/></br>
+
+						<button id = "myReg">submit</button>
+	</form>
+</div>
+<div class = "log" title = "Login">
+	<form method = "POST">
+		Username: <input type = "text" id = "username" name = "username"/></br>
+		Password: <input type = "password" id = "password" name = "password"/></br>
+				  <input type = "hidden" name = "id"/></br>
+	
+				  <button id = "myLogin">login</button>
+	</form>
+</div>
+</body>
+</html>

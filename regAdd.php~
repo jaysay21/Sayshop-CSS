@@ -1,0 +1,20 @@
+<?php
+
+     include 'Dao/UserDao.php';
+     session_start();
+      
+    $name=$_POST['firstname'];
+    $lastname=$_POST['lastname'];
+    $age=$_POST['address'];
+    $emailAdd2=$_POST['contact'];
+    $phoneNumber=$_POST['username'];
+    $Password=$_POST['password'];
+    $password2=$_POST['password2'];
+   
+	$action = new UserDao();
+	$action-> register($firstname,$lastname,$address,$contact,$username, $password,$password2);
+	
+	session_destroy();
+     
+
+?>
