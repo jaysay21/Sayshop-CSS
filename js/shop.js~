@@ -77,7 +77,6 @@ $(function(){
         $.ajax({
             type: "POST",
             url: "addCustomerOrder.php",
-
             data: wordObj,
             success: function(data){
                 $("#customers").append(data);
@@ -94,6 +93,8 @@ $(function(){
 
 
     });
+
+
 
 });
 

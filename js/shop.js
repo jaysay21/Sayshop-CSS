@@ -94,11 +94,7 @@ $(function(){
 
     });
 
-	$("#btn_register").click(function(){
-	
-		
 
-	});
 
 });
 

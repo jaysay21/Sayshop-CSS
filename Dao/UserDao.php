@@ -1,5 +1,5 @@
 <?php
-	include 'Dao/BaseDao.php';
+	include 'Dao/BaseDao';
 	
 	class UserDao extends BaseDao {
 	

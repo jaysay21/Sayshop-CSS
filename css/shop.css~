@@ -78,4 +78,14 @@ div#customerform{
 
 
 }
+/****** LOGIN ****/
+
+#login{
+
+	margin-top: 300px;
+	margin-left: 500px;
+	background-color: gray;
+	margin-right: 600px;
+	
+}
 
