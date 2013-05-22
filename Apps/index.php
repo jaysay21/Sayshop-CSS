@@ -22,10 +22,10 @@
 </head>
 
 <body>	
-	
+	<fieldset id="myTitle">
 	<h1 id="titles">Js Computer Shop Sytem</h1><a href="logout.php" id="logout"><i class="icon-off icon-black"></i>LOGOUT</a>
 	
-
+</fieldset>
 		
 	<div id="myMenus" >
 			<a href="index.php"><i class="icon-home icon-black"></i>Home</a></br>

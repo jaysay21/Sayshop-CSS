@@ -1,0 +1,118 @@
+a{
+	text-decoration:none;
+
+}
+
+a:hover{
+	color:red;
+	background:-moz-linear-gradient(top,gray,white);
+	border-radius:1px;
+	
+}
+
+
+#myMenus{
+	margin-top: 100px;
+	margin-left: 150px;
+	
+
+}
+
+#myField{
+	
+	margin-left: 300px;
+	margin-top: 200px;
+	width: 800px;
+        margin-bottom:150px;
+	
+   	
+
+}
+#inventory_field{
+
+	margin-left: 300px;
+	margin-top: -10px;
+	width: 800px;
+        margin-bottom:150px;	 
+
+}
+#search_cust{
+
+	margin-left: 900px;
+
+}
+
+#titles{
+	
+	margin-left: 500px;
+	margin-top: 50px;
+	
+}
+
+#myTitle{
+	
+	color: gray;
+	background-color: yellow;
+	height: 130px;
+	
+
+}
+#pic1,#pic2{
+
+
+	width: 200px;
+	margin-left: 400px;
+	margin-top: 70px;
+
+}
+#cust_table{
+	
+	color: green;
+	margin-left: 50px;
+	margin-top: -250px;
+
+}
+#inv_table{
+
+	color: green;
+	margin-left: 350px;
+	margin-top: -200px;
+	
+
+}
+div#advertisment{
+
+	margin-top: -200px;
+
+}
+div#customerform{
+
+	margin-top: -100px;
+    display: none;
+    background-color:gray;
+    padding: 10px;
+
+}
+/****** LOGIN ****/
+
+#login{
+
+	margin-top: 300px;
+	margin-left: 500px;
+	background-color: yellow;
+	padding: 15px;
+	margin-right: 200px;
+	
+}
+#logout{
+
+
+	margin-left: 1300px;
+	
+}
+#login_body{
+	background-image: url('../Images/t.jpg');
+}
+
+
+

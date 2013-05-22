@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="231c21e1-f25c-4db8-94c5-45beb3a3a05c" name="Default" comment="" />
+    <list default="true" id="8cfd17f3-d3c7-4b52-ae96-ae4566a4f0e7" name="Default" comment="" />
     <ignored path="Sayshop.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/shop.js" changelist="231c21e1-f25c-4db8-94c5-45beb3a3a05c" time="1368501630994" ignored="false" />
-    <file path="/customer_order.php" changelist="231c21e1-f25c-4db8-94c5-45beb3a3a05c" time="1368500897437" ignored="false" />
-    <file path="/addCustomerOrder.php" changelist="231c21e1-f25c-4db8-94c5-45beb3a3a05c" time="1368501669290" ignored="false" />
-    <file path="/ShopDao.php" changelist="231c21e1-f25c-4db8-94c5-45beb3a3a05c" time="1368502270446" ignored="false" />
+    <file path="/ShopDao.php" changelist="8cfd17f3-d3c7-4b52-ae96-ae4566a4f0e7" time="1369127430735" ignored="false" />
+    <file path="/shop.js" changelist="8cfd17f3-d3c7-4b52-ae96-ae4566a4f0e7" time="1369127375905" ignored="false" />
+    <file path="/shop.css" changelist="8cfd17f3-d3c7-4b52-ae96-ae4566a4f0e7" time="1369126694180" ignored="false" />
+    <file path="/products.php" changelist="8cfd17f3-d3c7-4b52-ae96-ae4566a4f0e7" time="1369126592327" ignored="false" />
+    <file path="/addCustomerOrder.php" changelist="8cfd17f3-d3c7-4b52-ae96-ae4566a4f0e7" time="1369127231254" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,19 +28,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="add_product.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/add_product.php">
+      <file leaf-file-name="products.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/products.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="4" selection-start="0" selection-end="237" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="view_product.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/view_product.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="28" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0">
+            <state line="60" column="25" selection-start="1454" selection-end="1466" vertical-scroll-proportion="-6.875">
               <folding />
             </state>
           </provider>
@@ -48,25 +40,18 @@
       <file leaf-file-name="ShopDao.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Dao/ShopDao.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="92" column="0" selection-start="1988" selection-end="1988" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="90" column="48" selection-start="2103" selection-end="2103" vertical-scroll-proportion="-16.875">
+              <folding>
+                <marker date="1369127435076" expanded="true" signature="453:525" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jquery-1.8.2.min.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/jquery-1.8.2.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="93379" selection-start="93432" selection-end="93432" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shop.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="shop.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/shop.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="78" column="38" selection-start="1619" selection-end="1619" vertical-scroll-proportion="0.0">
+            <state line="90" column="14" selection-start="1830" selection-end="1830" vertical-scroll-proportion="0.59641254">
               <folding />
             </state>
           </provider>
@@ -75,25 +60,7 @@
       <file leaf-file-name="addCustomerOrder.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/addCustomerOrder.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="103" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BaseDao.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dao/BaseDao.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="products.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/products.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="15" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0">
+            <state line="12" column="32" selection-start="335" selection-end="335" vertical-scroll-proportion="-7.5">
               <folding />
             </state>
           </provider>
@@ -102,16 +69,16 @@
       <file leaf-file-name="customer_order.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/customer_order.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="70" column="0" selection-start="1323" selection-end="1323" vertical-scroll-proportion="-6.8333335">
+            <state line="29" column="0" selection-start="738" selection-end="738" vertical-scroll-proportion="-5.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="register.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/register.php">
+      <file leaf-file-name="shop.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/shop.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="9" selection-start="356" selection-end="356" vertical-scroll-proportion="0.2016129">
+            <state line="89" column="18" selection-start="920" selection-end="920" vertical-scroll-proportion="-10.25">
               <folding />
             </state>
           </provider>
@@ -127,12 +94,12 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/customer_order.php" />
         <option value="$PROJECT_DIR$/products.php" />
+        <option value="$PROJECT_DIR$/css/shop.css" />
         <option value="$PROJECT_DIR$/addCustomerOrder.php" />
         <option value="$PROJECT_DIR$/Dao/ShopDao.php" />
         <option value="$PROJECT_DIR$/js/shop.js" />
-        <option value="$PROJECT_DIR$/customer_order.php" />
-        <option value="$PROJECT_DIR$/register.php" />
       </list>
     </option>
   </component>
@@ -216,25 +183,37 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sayshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sayshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
-      <method />
-    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="231c21e1-f25c-4db8-94c5-45beb3a3a05c" name="Default" comment="" />
-      <created>1368497781780</created>
-      <updated>1368497781780</updated>
+      <changelist id="8cfd17f3-d3c7-4b52-ae96-ae4566a4f0e7" name="Default" comment="" />
+      <created>1369125157442</created>
+      <updated>1369125157442</updated>
     </task>
     <servers />
   </component>
@@ -246,7 +225,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2503597" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964029" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -322,102 +301,53 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/employee.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/edit.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dao/BaseDao.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/add_user.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/delete.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery-1.8.2.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="93379" selection-start="93432" selection-end="93432" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/products.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="15" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view_product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="28" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/addCustomerOrder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="103" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dao/ShopDao.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="0" selection-start="1988" selection-end="1988" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/add_product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="4" selection-start="0" selection-end="237" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/shop.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="38" selection-start="1619" selection-end="1619" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/customer_order.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="0" selection-start="1323" selection-end="1323" vertical-scroll-proportion="-6.8333335">
+        <state line="29" column="0" selection-start="738" selection-end="738" vertical-scroll-proportion="-5.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/register.php">
+    <entry file="file://$PROJECT_DIR$/products.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="9" selection-start="356" selection-end="356" vertical-scroll-proportion="0.2016129">
+        <state line="60" column="25" selection-start="1454" selection-end="1466" vertical-scroll-proportion="-6.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/shop.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="18" selection-start="920" selection-end="920" vertical-scroll-proportion="-10.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addCustomerOrder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="32" selection-start="335" selection-end="335" vertical-scroll-proportion="-7.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dao/ShopDao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="48" selection-start="2103" selection-end="2103" vertical-scroll-proportion="-16.875">
+          <folding>
+            <marker date="1369127435076" expanded="true" signature="453:525" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/shop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="14" selection-start="1830" selection-end="1830" vertical-scroll-proportion="0.59641254">
           <folding />
         </state>
       </provider>

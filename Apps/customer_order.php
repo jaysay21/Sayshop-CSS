@@ -1,12 +1,3 @@
-<?php
-	session_start();
-	
-	if (!isset($_SESSION['username'])){
-		header('Location: login.php');
-	} else {
-		$username = $_SESSION['username'];
-	}
-?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -20,14 +11,10 @@
 <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css"/>
 
 </head>
-
 <body>	
 	
-	<h1 id="titles">Js Computer Shop Sytem</h1><a href="logout.php" id="logout"><i class="icon-off icon-black"></i>LOGOUT</a>
-	
 
-		
-	<div id="myMenus" >
+<div id="myMenus">
 			<a href="index.php"><i class="icon-home icon-black"></i>Home</a></br>
 			<a href="products.php"><i class="icon-briefcase icon-black"></i>Products</a></br>
 			<a href="customer_order.php"><i class="icon-user icon-black"></i>Customer Orders</a></br>
@@ -36,21 +23,36 @@
 </div>
 
 
-
 	
 		
+	
 	<fieldset id="myField">
-	<img src="../Images/prod.jpg">
 
+
+		
+
+</table>
+	
+		<table id="cust_table" class="table table-striped">
+		<tr>    
+                        <thead>
+			<th>ID</th>
+			<th>Customer Name</th>
+			<th>Contact Number</th>
+			<th>Address</th>
+			<th>Product Name</th>
+			<th>Quantity</th>
+			<th>Date</th>
+			<th>Warranty</th>
+                        </thead>
+			<tbody id="customers"></tbody>
+	</tr>
+	
+  </table>
+	
+		
 </fieldset>
 	
-
-	<div id="advertisment">
-
 	
-		<img id="pic1" src="Images/1.jpg"/>
-		<img  id="pic2"src="Images/many.jpg"/>
-</div>
-
 </body>
 </html>
